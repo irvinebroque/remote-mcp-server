@@ -4,6 +4,8 @@ Let's get a remote MCP server up-and-running on Cloudflare Workers complete with
 
 ## Develop locally
 
+trigger preview
+
 ```bash
 # clone the repository
 git clone git@github.com:cloudflare/ai.git
