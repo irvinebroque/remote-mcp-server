@@ -11,6 +11,7 @@ export class MyMCP extends DurableMCP {
 	});
 
 	async init() {
+		console.log("sup")
 		this.server.tool(
 			"add",
 			{ a: z.number(), b: z.number() },
